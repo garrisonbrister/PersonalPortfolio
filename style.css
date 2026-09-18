@@ -1,0 +1,139 @@
+body {       
+    font-family: "Poppins";
+    background-color: #F2cfee;
+    color: #631133
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.horrible-text{
+    color:purple;
+    background-color: #FBB3BB;
+    font-size: 18px;
+    text-align: center;
+    width: 20rem;
+    height: 25rem;
+    overflow: scroll;
+    padding: 8px 16px;
+    border: 10px;
+    border-style: dotted;
+    border-color: green;
+    border-radius: 100%;
+    margin: 32px;
+}
+.horrible-text:hover {
+    cursor: pointer;
+    background-color:palegreen;
+    border-color:darkmagenta;
+    border-radius:  5%;
+}
+.horrible-text:active {
+    cursor:crosshair;
+    background-color:blue;
+    border-color:cadetblue;
+    border-style: dashed;
+    border-radius: 20%;
+    color:cornsilk;
+}
+
+.header-text{
+    color: #631133;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.Web-Buttons{
+    background-color:#F2cfee;
+    color:#631133;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    height: 2rem;
+}
+
+.Web-Buttons:hover {
+    cursor: pointer;
+    background-color: #631133;
+    color:#F2cfee;
+
+}
+
+
+.frontpage-image1{
+    width: 100%;
+    height: 30rem;
+}
+
+.Hero-Statement{
+    color:#631133;
+    text-align: center;
+    font-size: 25px;
+}
+
+.TrayvionCoverPhoto{
+    width: 50rem;
+    height: 30rem;
+}
+
+.Film-Image-Home{
+    width: 100%;
+    height: 15rem; 
+}
+
+
+.About-Me-Type{
+    text-align: center;
+
+}
+
+.About-Buttons{
+    text-align: center;
+    font-size: 16px;
+    width: 8rem;
+    height: 1.5rem;
+    border: 3px;
+        border-style: solid;
+        border-color:#631133;
+        border-radius: 30%;
+    margin-left: 50rem;
+
+}
+
+.Copyright{
+    text-align: center;
+    margin-top: -2rem;
+}
+
+.Bottom-Name{
+    text-align: center;
+    font-size: 30px;
+}
+
+.Artifact-Name{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.Description-Type{
+    text-align: center;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-top: -1rem;
+}
+
+.BrandIdentity-NoodlesHeader{
+    width: 100%
+}
+
+.Noodles-Mockup1{
+    width: 32%;
+    margin-left: .75rem
+}
+
+.Noodles-Mockup2{
+    width: 66%;
+}
